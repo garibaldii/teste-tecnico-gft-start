@@ -1,4 +1,4 @@
-package questoes.creatures_tail;
+package questoes.q2_creatures_tail;
 
 public class Phoenix extends  Creature{
 
